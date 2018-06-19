@@ -24,3 +24,4 @@
 - [Lucas Bebber](http://lbebber.github.io/public/)
 - [Jean Helfenstein](http://www.jeanhelfenstein.com/)
 - [Cassidy Williams](http://cassidoo.co/)
+- [Amit Kumar Gupta](http://amitkumargupta.work)
